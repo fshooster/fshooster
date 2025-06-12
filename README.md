@@ -74,7 +74,7 @@
 - 👯 I’m looking to collaborate on several open source projects, including game engine prosthetics simulations for ROS2, ROS, and LSL.
 - 🤔 I’m looking for help with non-GPL bluetooth development in pre-3.9 python.
 - 💬 Ask me about rehabilitation games and neurotechnology.
-- 📫 How to reach me: forrest@argzero.org for business inquiries or forrest.z.shooster@gmail.com for academic collaboration.
+- 📫 How to reach me: forrest@argzero.org for business inquiries or forrest.z.shooster@gmail.com for academic collaboration or forrest@shoosterholdings.com for SH-related work/projects.
 - 😄 Pronouns: he/they (demi)
 - ⚡ Fun fact: I am passionate about intersectionality of disabilities accommodations, research, and advocacy with all facets of inequities and the roles we all can play in fixing the inequities in our society.
 
