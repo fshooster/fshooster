@@ -85,4 +85,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argzero)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FShooster)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=Argzero&style=flat-square&color=blue" alt="" align="center"/> 
+<img src="https://komarev.com/ghpvc/?username=fshooster&style=flat-square&color=blue" alt="" align="center"/>
